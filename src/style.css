@@ -1,1 +1,23 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+<<<<<<< HEAD
+=======
+
+.excusas {
+  border-radius: 6px;
+  background-color: orange;
+  color: white;
+  font-weight: bold;
+  font-size: 25px;
+  padding: 22px;
+}
+
+.alert {
+  width: 40%;
+  margin-top: 20px;
+}
+
+.resultado {
+  font-weight: bold;
+  font-size: 17px;
+}
+>>>>>>> 93dce35 (hecho)
